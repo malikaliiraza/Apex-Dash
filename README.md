@@ -55,7 +55,7 @@ This project demonstrates the following programming concepts:
 
 ### Requirements
 - Scratch Desktop **or**
-- Scratch Online Editor -[scratch.mit.edu](https://scratch.mit.edu) -[TurboWarp](https://turbowarp.org)
+- Scratch Online Editor - ([scratch.mit.edu](https://scratch.mit.edu)) - ([TurboWarp](https://turbowarp.org))
 
 ### Run the Game
 1. Download the repository.
