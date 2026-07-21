@@ -1,2 +1,140 @@
-# Apex-Dash
-A rhythm-based obstacle-dodging game built in Scratch 3.0, featuring auto-scrolling levels, real-time collision detection, and score tracking — demonstrating event-driven game logic and interactive programming fundamentals.
+# 🎮 Apex Dash
+
+![Gameplay Preview](screenshots/gameplay.png)
+
+A fast-paced, rhythm-based obstacle-dodging game built in **Scratch 3.0**. Guide your character through an auto-scrolling world, timing your jumps to clear obstacles and rack up the highest score possible.
+
+---
+
+## 📖 Overview
+
+Apex Dash is a beginner-friendly arcade game built in Scratch. The level scrolls automatically while you time a single jump input to dodge obstacles — easy to pick up, hard to master. This project demonstrates event-driven programming, timing-based game logic, and interactive score tracking.
+
+---
+
+## ✨ Features
+
+- 🦘 Jump mechanic with a rise/fall arc
+- 🌍 Auto-scrolling level (adjustable Scroll Speed)
+- 💥 Obstacle collision detection
+- 📊 Real-time score tracking
+- 🎵 Background music and sound effects
+- 🎨 Custom sprites and backdrops
+
+---
+
+## 🛠 Technologies Used
+
+- Scratch 3.0
+- Block-Based Programming
+
+---
+
+## 🎯 Learning Objectives
+
+This project demonstrates the following programming concepts:
+
+- Variables
+- Loops (`forever`, `repeat`)
+- Event handling (`when key pressed`, `when flag clicked`)
+- Collision detection
+- Timing-based game logic
+- Score tracking
+- Animation
+
+---
+
+## 🎮 Controls
+
+| Key | Action |
+|------|--------|
+| **Space** | Jump |
+| Green Flag | Start Game |
+
+---
+
+## 🚀 Getting Started
+
+### Requirements
+- Scratch Desktop **or**
+- Scratch Online Editor ([scratch.mit.edu](https://scratch.mit.edu)) — [TurboWarp](https://turbowarp.org) also works and runs faster
+
+### Run the Game
+1. Download the repository.
+2. Open **apex-dash.sb3** in Scratch Desktop, Scratch Online, or TurboWarp.
+3. Click the **Green Flag**.
+4. Press **Space** to jump and dodge the obstacles!
+
+---
+
+## 📂 Project Structure
+
+```
+apex-dash/
+│
+├── apex-dash.sb3
+├── README.md
+├── LICENSE
+├── screenshots/
+│   ├── gameplay.png
+│   └── menu.png
+└── assets/
+```
+
+---
+
+## 📸 Screenshots
+
+![Gameplay Screenshot](screenshots/gameplay.png)
+
+Add more gameplay screenshots inside the **screenshots** folder as you go.
+
+```
+screenshots/
+├── gameplay.png
+└── menu.png
+```
+
+---
+
+## 🔮 Future Improvements
+
+- Multiple levels
+- Left/right movement and full platforming
+- Enemy AI
+- Health system
+- Coins and collectibles
+- Power-ups
+- Save game progress
+- Pause menu
+- Difficulty selection
+
+---
+
+## 👨‍💻 Author
+
+**Malik Ali Raza**
+Software Engineering Undergraduate
+
+- GitHub: https://github.com/YourGitHubUsername
+- LinkedIn: https://linkedin.com/in/malikaliiraza
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## ⭐ Support
+
+If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
+
+---
+
+## 📬 Feedback
+
+Suggestions and contributions are welcome. Feel free to fork the repository, open an issue, or submit a pull request to improve the project.
+
+Happy Coding! 🚀
