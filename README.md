@@ -1,7 +1,5 @@
 # 🎮 Apex Dash
 
-![Gameplay Preview](screenshots/gameplay.png)
-
 A fast-paced, rhythm-based obstacle-dodging game built in **Scratch 3.0**. Guide your character through an auto-scrolling world, timing your jumps to clear obstacles and rack up the highest score possible.
 
 ---
@@ -57,7 +55,9 @@ This project demonstrates the following programming concepts:
 
 ### Requirements
 - Scratch Desktop **or**
-- Scratch Online Editor ([scratch.mit.edu](https://scratch.mit.edu)) — [TurboWarp](https://turbowarp.org) also works and runs faster
+- Scratch Online Editor
+  1-  ([scratch.mit.edu](https://scratch.mit.edu))
+  2-  [TurboWarp](https://turbowarp.org)
 
 ### Run the Game
 1. Download the repository.
@@ -74,25 +74,10 @@ apex-dash/
 │
 ├── apex-dash.sb3
 ├── README.md
-├── LICENSE
 ├── screenshots/
 │   ├── gameplay.png
 │   └── menu.png
 └── assets/
-```
-
----
-
-## 📸 Screenshots
-
-![Gameplay Screenshot](screenshots/gameplay.png)
-
-Add more gameplay screenshots inside the **screenshots** folder as you go.
-
-```
-screenshots/
-├── gameplay.png
-└── menu.png
 ```
 
 ---
@@ -115,15 +100,11 @@ screenshots/
 
 **Malik Ali Raza**
 Software Engineering Undergraduate
+Riphah International University
 
-- GitHub: https://github.com/YourGitHubUsername
-- LinkedIn: https://linkedin.com/in/malikaliiraza
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+- **Portfolio:** https://malikaliiraza.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/malikaliraza/
+- **GitHub:** https://github.com/malikaliiraza
 
 ---
 
