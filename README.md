@@ -96,6 +96,13 @@ apex-dash/
 
 ---
 
+## Repository
+
+🔗 **GitHub Repository**
+https://github.com/malikaliiraza/Apex-Dash/
+
+---
+
 ## 👨‍💻 Author
 
 **Malik Ali Raza**
