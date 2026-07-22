@@ -73,9 +73,8 @@ apex-dash/
 ├── apex-dash.sb3
 ├── README.md
 ├── screenshots/
-│   ├── gameplay.png
-│   └── menu.png
-└── assets/
+    ├── gameplay.png
+    └── menu.png
 ```
 
 ---
