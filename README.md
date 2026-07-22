@@ -69,6 +69,7 @@ This project demonstrates the following programming concepts:
 
 ```
 apex-dash/
+
 │
 ├── apex-dash.sb3
 ├── README.md
