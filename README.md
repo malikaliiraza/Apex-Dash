@@ -118,9 +118,3 @@ Riphah International University
 If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
 
 ---
-
-## 📬 Feedback
-
-Suggestions and contributions are welcome. Feel free to fork the repository, open an issue, or submit a pull request to improve the project.
-
-Happy Coding! 🚀
