@@ -113,6 +113,6 @@ Riphah International University
 
 ---
 
-If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub.
+If you found this project helpful or interesting, please consider giving it a ⭐.
 
 ---
