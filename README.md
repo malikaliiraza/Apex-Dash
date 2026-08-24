@@ -33,8 +33,8 @@ Apex Dash is a beginner-friendly arcade game built in Scratch. The level scrolls
 This project demonstrates the following programming concepts:
 
 - Variables
-- Loops (`forever`, `repeat`)
-- Event handling (`when key pressed`, `when flag clicked`)
+- Loops(`forever`, `repeat`)
+- Event handling(`when key pressed`, `when flag clicked`)
 - Collision detection
 - Timing-based game logic
 - Score tracking
