@@ -23,8 +23,8 @@ Apex Dash is a beginner-friendly arcade game built in Scratch. The level scrolls
 
 ## 🛠 Technologies Used
 
-- Scratch 3.0
-- Block-Based Programming
+* **Development Environment :** Scratch 3.0
+* **Programming Language :** Block-Based Programming
 
 ---
 
