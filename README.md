@@ -23,8 +23,8 @@ Apex Dash is a beginner-friendly arcade game built in Scratch. The level scrolls
 
 ## 🛠 Technologies Used
 
-* **Development Environment:** Scratch 3.0
-* **Programming Language:** Block-Based Programming
+* **Development Environment :** Scratch 3.0
+* **Programming Language :** Block-Based Programming
 
 ---
 
@@ -59,7 +59,7 @@ This project demonstrates the following programming concepts:
 
 ### Run the Game
 1. Download the repository.
-2. Open **apex-dash.sb3** in Scratch Desktop, Scratch Online, or TurboWarp.
+2. Open **apex-dash.sb3** in Scratch Desktop , Scratch Online , or TurboWarp.
 3. Click the **Green Flag**.
 4. Press **Space** to jump and dodge the obstacles!
 
