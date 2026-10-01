@@ -23,8 +23,8 @@ Apex Dash is a beginner-friendly arcade game built in Scratch. The level scrolls
 
 ## 🛠 Technologies Used
 
-* **Development Environment :** Scratch 3.0
-* **Programming Language :** Block-Based Programming
+* **Development Environment:** Scratch 3.0
+* **Programming Language:** Block-Based Programming
 
 ---
 
@@ -82,15 +82,15 @@ apex-dash/
 
 ## 🔮 Future Improvements
 
-- Multiple levels
-- Left/right movement and full platforming
+- Multiple Levels
+- Left/Right Movement and Full Platforming
 - Enemy AI
-- Health system
-- Coins and collectibles
+- Health System
+- Coins and Collectibles
 - Power-ups
-- Save game progress
-- Pause menu
-- Difficulty selection
+- Save Game Progress
+- Pause Menu
+- Difficulty Selection
 
 ---
 
@@ -107,9 +107,9 @@ https://github.com/malikaliiraza/Apex-Dash/
 Software Engineering Undergraduate
 Riphah International University
 
-- **Portfolio:** https://malikaliiraza.github.io/
-- **LinkedI:** https://www.linkedin.com/in/malikaliraza/
-- **GitHub:** https://github.com/malikaliiraza
+- **Portfolio :** https://malikaliiraza.github.io/
+- **LinkedI :** https://www.linkedin.com/in/malikaliraza/
+- **GitHub :** https://github.com/malikaliiraza
 
 ---
 
